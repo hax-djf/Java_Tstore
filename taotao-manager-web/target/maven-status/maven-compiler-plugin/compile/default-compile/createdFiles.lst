@@ -1,0 +1,7 @@
+com\taotao\controller\TestController.class
+com\taotao\utils\FastDFSClient.class
+com\taotao\controller\itemCatController.class
+com\taotao\controller\itemListController.class
+com\taotao\controller\PageController.class
+com\taotao\controller\contentCategoryController.class
+com\taotao\controller\contentController.class
